@@ -1,0 +1,27 @@
+body {
+    background-color: rosybrown;
+}
+
+h1 {
+    color:royalblue;
+}
+
+
+
+#theBox {
+    height: 400px;
+    width: 500px;
+    align-self: center;
+    background-color: royalblue;
+    border: 2px solid black;
+
+}
+
+p {
+    text-align: center;
+    color:skyblue;
+}
+
+h3 {
+    color:skyblue;
+}
